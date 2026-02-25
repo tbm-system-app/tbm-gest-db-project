@@ -1,0 +1,5 @@
+{
+  "name": "tbm-gest-db-project",
+  "description": "Tool di riconciliazione tra Distinta Base e Database Componenti. Verifica codici, revisioni e sincronizza i dati automaticamente.",
+  "requestFramePermissions": []
+}
